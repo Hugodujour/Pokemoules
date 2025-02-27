@@ -7,6 +7,7 @@ Ce projet est une version améliorée de **Pokémon Rouge** sur Game Boy Color (
 ## ✨ Améliorations
 - Graphismes améliorés pour une meilleure expérience visuelle 🎨
 - Aucune modification du gameplay ou du scénario 🎭
+- Dresseurs importants plus puissants (Rival, Arènes, Conseil 4)
 - Compatible avec les émulateurs et le hardware original de la GBC 🕹️
 
 ## 📥 Téléchargement
