@@ -18,7 +18,7 @@ Téléchargez la ROM au dessus du fichier README.md
 Lancez la ROM sur un émulateur GBC ou sur du hardware réel.
 
 ## 🖼️ Aperçu
-![Aperçu du jeu](https://www.pokebip.com/pages/jeuxvideo/oac/or_argent/guide_des_lieux/maps/bourg-palette.png)(https://www.media.pokekalos.fr/img/jeux/jaune/guide/bourg-palette.png)
+![Aperçu du jeu](https://www.pokebip.com/pages/jeuxvideo/oac/or_argent/guide_des_lieux/maps/bourg-palette.png)![Aperçu du jeu](https://www.media.pokekalos.fr/img/jeux/jaune/guide/bourg-palette.png)
 
 ## 🚀 Contribuer
 Si vous trouvez des bugs graphiques ou avez des suggestions, n'hésitez pas à ouvrir une issue ou à proposer une pull request !
